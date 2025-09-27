@@ -44,6 +44,10 @@
     --input: 220 13% 91%;
     --ring: 235 69% 61%;
     
+    /* Popover */
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 71% 4%;
+    
     /* Design System Tokens */
     --radius: 0.75rem;
     --radius-sm: 0.5rem;
